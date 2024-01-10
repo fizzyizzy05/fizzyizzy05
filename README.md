@@ -4,7 +4,7 @@ I like coding and designing things. I study Computer Science and I'm a fan of Li
 
  - Binary, a base converter app for GNOME.
 	 - [Github Repo](https://github.com/fizzyizzy05/binary)
-	 - [Flathub Download](https://github.com/flathub/io.github.fizzyizzy05.binary)
+	 - [Flathub Download](https://flathub.org/apps/io.github.fizzyizzy05.binary)
 
 
 <!--
