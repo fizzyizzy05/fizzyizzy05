@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi, I'm Izzy 👋
+I like coding and designing things. I study Computer Science and I'm a fan of Linux and FOSS.
+### Things I'm  working on
 
-<!--
-**fizzyizzy05/fizzyizzy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Binary, a base converter app for GNOME.
+	 - [Github Repo](https://github.com/fizzyizzy05/binary)
+	 - [Flathub Download](https://github.com/flathub/io.github.fizzyizzy05.binary)
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
