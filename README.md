@@ -1,8 +1,8 @@
 ## Hi, I'm Izzy 👋
-### About me
+### About me 👩🏻‍💻
 I like coding and designing things. I study Computer Science and I'm a fan of Linux and FOSS. I'm confident in C#, Python, HTML and CSS. I'm learning Java and Vala. 
-### Things I'm  working on
-#### Binary
+### Things I'm  working on 🔭 
+#### Binary 🔢
 Binary is a simple app for GNOME that converts numbers between two different bases.
 
 - [Github Repo](https://github.com/fizzyizzy05/binary)
@@ -10,7 +10,7 @@ Binary is a simple app for GNOME that converts numbers between two different bas
 
 
 <!--
-- 🔭 I’m currently working on ...
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
