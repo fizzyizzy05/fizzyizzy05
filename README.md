@@ -4,8 +4,9 @@ I like coding and designing things. I study Computer Science and I'm a fan of Li
 ### Things I'm  working on
 #### Binary
 Binary is a simple app for GNOME that converts numbers between two different bases.
-	 - [Github Repo](https://github.com/fizzyizzy05/binary)
-	 - [Flathub Download](https://flathub.org/apps/io.github.fizzyizzy05.binary)
+
+- [Github Repo](https://github.com/fizzyizzy05/binary)
+- [Flathub Download](https://flathub.org/apps/io.github.fizzyizzy05.binary)
 
 
 <!--
