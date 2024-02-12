@@ -1,8 +1,9 @@
 ## Hi, I'm Izzy 👋
-I like coding and designing things. I study Computer Science and I'm a fan of Linux and FOSS.
+### About me
+I like coding and designing things. I study Computer Science and I'm a fan of Linux and FOSS. I'm confident in C#, Python, HTML and CSS. I'm learning Java and Vala. 
 ### Things I'm  working on
-
- - Binary, a base converter app for GNOME.
+#### Binary
+Binary is a simple app for GNOME that converts numbers between two different bases.
 	 - [Github Repo](https://github.com/fizzyizzy05/binary)
 	 - [Flathub Download](https://flathub.org/apps/io.github.fizzyizzy05.binary)
 
